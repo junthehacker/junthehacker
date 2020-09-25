@@ -13,3 +13,7 @@ During class terms, I am usually a TA, if you are one of my students, you can fi
 * CSCA20 Introduction to Computer Programming (Winter 2019)
 * CSCC69 Operating Systems (Summer 2020)
 * CSCD58 Computer Networks (Fall 2020)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@191d21dc-f2a3-417d-a585-8d1063af4be0/e10e7425-a4b3-42c5-9916-5d58960debef.png" width="400"/></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@191d21dc-f2a3-417d-a585-8d1063af4be0/95f2967e-22a6-4b60-ba5a-7d6053175980.png" width="400" /></a>
