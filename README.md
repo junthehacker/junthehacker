@@ -8,5 +8,3 @@
 I am a forth (maybe)-year CS student at the University of Toronto Scarborough. Interested in system design and distributed computing. Ex-SWE Intern at Google (@google) and Royal Bank of Canada. Currently working on my own ventures (@cheapreats).
 
 You can find a list of things I have done on my LinkedIn: https://www.linkedin.com/in/jun-zheng-ca/
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@191d21dc-f2a3-417d-a585-8d1063af4be0/e10e7425-a4b3-42c5-9916-5d58960debef.png" width="500"/></a>
