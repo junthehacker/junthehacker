@@ -5,6 +5,6 @@
 ![my treasure](https://img.shields.io/badge/My%20Treasure-SL-pink.svg)
 
 
-I am a forth (maybe)-year CS student at the University of Toronto Scarborough. Interested in system design and distributed computing. Ex-SWE Intern at Google (@google) and Royal Bank of Canada. Currently working on my own ventures (@cheapreats).
+I am a forth (maybe)-year CS student at the University of Toronto Scarborough. Interested in system design and distributed computing. Ex-SWE intern and incoming SWE at Google (@google). Currently working on my own ventures (@cheapreats).
 
 You can find a list of things I have done on my LinkedIn: https://www.linkedin.com/in/jun-zheng-ca/
