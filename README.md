@@ -9,4 +9,4 @@ I am a forth (maybe)-year CS student at the University of Toronto Scarborough. I
 
 You can find a list of things I have done on my LinkedIn: https://www.linkedin.com/in/jun-zheng-ca/
 
-![](https://media2.giphy.com/media/gx54W1mSpeYMg/giphy.gif)
+![](https://i.pinimg.com/originals/b1/2c/1f/b12c1f3cd5dadd58d2922bb1d5529a31.gif)
